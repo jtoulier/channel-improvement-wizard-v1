@@ -7,9 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class ExistingProductResponse {
-    private String cic;
-    private String tioAux;
-    private String description;
-    private String details;
+public class ProductImprovementResultResponse {
+    Short productImprovementId;
+    Short daysEffort;
 }
