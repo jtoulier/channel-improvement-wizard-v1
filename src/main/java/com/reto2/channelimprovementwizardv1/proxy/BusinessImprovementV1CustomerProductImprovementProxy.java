@@ -1,9 +1,8 @@
 package com.reto2.channelimprovementwizardv1.proxy;
 
-import com.reto2.channelimprovementwizardv1.proxy.dto.request.CustomerProductImprovementRequest;
+import com.reto2.channelimprovementwizardv1.dto.request.CustomerProductImprovementRequest;
 import com.reto2.channelimprovementwizardv1.dto.response.CustomerProductImprovementResponse;
 import org.springframework.cloud.openfeign.FeignClient;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 

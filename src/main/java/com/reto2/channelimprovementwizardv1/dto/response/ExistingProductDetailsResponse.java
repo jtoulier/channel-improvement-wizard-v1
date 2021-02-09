@@ -1,4 +1,4 @@
-package com.reto2.channelimprovementwizardv1.dto.response.step4controller;
+package com.reto2.channelimprovementwizardv1.dto.response;
 
 import com.reto2.channelimprovementwizardv1.dto.response.CustomerProductResponse;
 import com.reto2.channelimprovementwizardv1.dto.response.ProductImprovementResponse;

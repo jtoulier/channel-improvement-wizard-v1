@@ -1,4 +1,4 @@
-package com.reto2.channelimprovementwizardv1.proxy.dto.response;
+package com.reto2.channelimprovementwizardv1.dto.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
